@@ -1,0 +1,4 @@
+repository "遊☆戯☆王@wechat_os_qy0_f0ufbefvs6lmpdniwgjbc@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
